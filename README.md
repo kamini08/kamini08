@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and coder. Here's a
 ---
 
 ## 🌱 About Me
-- **Web Developer:** Experienced in ReactJS, Next.js, and TailwindCSS.
+- **Web Developer:** Experienced in ReactJS, Next.js, and TypeScript.
 - **Systems Enthusiast:** Currently learning C/C++ for networking and OS-level projects.
 - **Continuous Learner:** Always experimenting with new tools and technologies.
 
